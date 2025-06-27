@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Debug
+*.log
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Others
+*.tmp
+*.bak
+*.swp
+*.DS_Store
